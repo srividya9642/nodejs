@@ -1,0 +1,4 @@
+employee name:'rahul gandhi'
+emlpoyee id:'101'
+emp salary:45000
+emp email:'rahul@123gmail.com'
